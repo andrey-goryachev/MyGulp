@@ -1,8 +1,2 @@
-body{
-    margin: 100px;
-    background: #ccc;
-    box-sizing: border-box;
-}
-@import 'common/menu';
-@import 'common/technologies';
-@import 'common/slider';
+
+@import './common/fonts.scss';
